@@ -16,8 +16,8 @@ def main():
     Sn = int(input("Enter in any number:"))
 
     # process
-    Fn = (Fn + Sn)
-    Sn = (Fn + Sn)
+    Fn = Fn + Sn
+    Sn = Fn + Sn
 
     # output
     print("")
