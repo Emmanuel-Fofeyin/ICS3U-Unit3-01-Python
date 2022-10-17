@@ -12,16 +12,15 @@ def main():
     # this function adds two numbers together
 
     # input
-    Fn = int(input("Enter in any number:"))
-    Sn = int(input("Enter in any number:"))
+    first_number = int(input("Enter in any number:"))
+    second_number = int(input("Enter in any number:"))
 
     # process
-    Fn = Fn + Sn
-    Sn = Fn + Sn
+    sum = first_number + second_number
 
     # output
     print("")
-    print("Total is: {0} ".format(Fn))
+    print("{0} + {1} = {2}".format(first_number, second_number, sum))
     print("\nDone.")
 
 
