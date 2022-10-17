@@ -3,7 +3,7 @@
 # Created by: Emmanuel
 # Created on: Oct 2022
 # This program calculates the area and perimeter of a circle
-#    with radius inputted from the user
+# with radius inputted from the user
 
 import math
 
