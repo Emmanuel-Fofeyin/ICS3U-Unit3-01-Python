@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by: Emmanuel
-# Created on: Sep 2022
+# Created on: Oct 2022
 # This program calculates the area and perimeter of a circle
 #    with radius inputted from the user
 
